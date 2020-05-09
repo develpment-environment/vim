@@ -31,7 +31,7 @@ sudo make install
 - [coc.nvim](https://github.com/neoclide/coc.nvim)
 - [nerd-tree]
 - [nerd-commenter]
-- [lightline]
+- [vim-airline]
 - [fzf]
 - [taglist]
 - [gitgutter]
