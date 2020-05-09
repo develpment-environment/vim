@@ -33,6 +33,8 @@ sudo make install
 - [nerd-commenter]
 - [lightline]
 - [fzf]
+- [taglist]
+- [gitgutter]
 
 - resources:
   - https://opensource.com/article/20/2/how-install-vim-plugins
