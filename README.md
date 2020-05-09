@@ -5,6 +5,19 @@
 - /usr/bin/vim
 - outdated
 
+## Building from sources (Recommended)
+
+[how-to](https://www.vim.org/git.php)
+```
+git clone https://github.com/vim/vim.git
+```
+```
+cd src
+make distclean  # if you build Vim before
+make
+sudo make install
+```
+
 ## Installing with brew
 
 - 
