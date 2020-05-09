@@ -32,6 +32,7 @@ sudo make install
 - [nerd-tree]
 - [nerd-commenter]
 - [lightline]
+- [fzf]
 
 - resources:
   - https://opensource.com/article/20/2/how-install-vim-plugins
