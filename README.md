@@ -35,6 +35,7 @@ sudo make install
 - [fzf]
 - [taglist]
 - [gitgutter]
+- [killersheep]
 
 - resources:
   - https://opensource.com/article/20/2/how-install-vim-plugins
