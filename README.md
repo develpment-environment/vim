@@ -34,7 +34,7 @@ sudo make install
 - [vim-airline]()
   - [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
 - [fzf]
-- [taglist]
+- [taglist](http://vim-taglist.sourceforge.net/manual.html)
 - [gitgutter]
 - [killersheep]
 
