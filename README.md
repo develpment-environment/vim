@@ -8,15 +8,35 @@
 ## Building from sources (Recommended)
 
 [how-to](https://www.vim.org/git.php)
+
+- clone 
 ```
 git clone https://github.com/vim/vim.git
 ```
+- build
 ```
 cd src
 make distclean  # if you build Vim before
 make
 sudo make install
 ```
+- update runtime files
+```
+% cd vimgithub/runtime
+% cp -rf * $VIMRUNTIME
+```
+## Plugins
+- [vim-rainbow]
+- [vim-cheat40]
+- [coc.nvim](https://github.com/neoclide/coc.nvim)
+- [nerd-tree]
+- [nerd-commenter]
+- [lightline]
+
+- resources:
+  - https://opensource.com/article/20/2/how-install-vim-plugins
+  
+
 
 ## Installing with brew
 
