@@ -31,6 +31,7 @@ sudo make install
 - [coc.nvim](https://github.com/neoclide/coc.nvim)
 - [nerd-tree]
 - [nerd-commenter]
+- [gruvbox-material](https://www.vim.org/scripts/script.php?script_id=5814)
 - [vim-airline]()
   - [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
 - [fzf]
