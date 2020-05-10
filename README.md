@@ -1,3 +1,3 @@
 # All about Vim
 
-see Wiki
+see project's Wiki
