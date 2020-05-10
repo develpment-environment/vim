@@ -1,4 +1,4 @@
-# Vim Editor MacOS Solutions
+# Installation & Setup
 
 ## Preinstalled
 
