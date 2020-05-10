@@ -1,9 +1,9 @@
 # Vim Editor MacOS Solutions
 
-## Preinstalled on HighSierra
+## Preinstalled
 
 - /usr/bin/vim
-- outdated
+- usually outdated
 
 ## Building from sources (Recommended)
 
